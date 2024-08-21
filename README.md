@@ -2,4 +2,4 @@
 
 #### ER diagram 
 
-![](https://imgur.com/eCBybwd.png)
+![](https://imgur.com/eCBybwd.png{width=40px })
