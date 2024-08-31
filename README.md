@@ -26,7 +26,7 @@
 
 
 ## ER diagram 
-<img src="https://imgur.com/eCBybwd.png" width="550" height="550">
+<div align="center"><img src="https://imgur.com/eCBybwd.png" width="400" height="400"></div>
 
 ## Web
 👉 Click [Figma](https://www.figma.com/proto/m1CDNRBHq86n3vmHeBlPmv/carSharing?node-id=0-1&t=EZrLlnQJwGSpKPAv-1) to see full design
@@ -34,9 +34,9 @@
     - Homepage/ Order page/ QnA page
 
 <div align="center">
-    <img src="https://imgur.com/L2q2zwm.png" width="275" height="275">
-    <img src="https://imgur.com/DDu3LdP.png" width="240" height="275">
-    <img src="https://imgur.com/ZjCybnx.png" width="310" height="275">
+    <img src="https://imgur.com/L2q2zwm.png" width="220" height="220">
+    <img src="https://imgur.com/DDu3LdP.png" width="192" height="220">
+    <img src="https://imgur.com/ZjCybnx.png" width="248" height="220">
 </div>
 <br>
 
