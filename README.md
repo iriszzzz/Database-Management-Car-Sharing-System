@@ -26,8 +26,12 @@
 
 
 ## ER diagram 
-
 <img src="https://imgur.com/eCBybwd.png" width="550" height="550">
+
+## Web
+<img src="https://imgur.com/L2q2zwm.png" width="550" height="550">
+<img src="https://imgur.com/DDu3LdP.png" width="480" height="550">
+<img src="https://imgur.com/qMoJUTM.png" width="600" height="420">
 
 
 
