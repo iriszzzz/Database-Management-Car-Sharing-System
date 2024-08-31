@@ -29,9 +29,26 @@
 <img src="https://imgur.com/eCBybwd.png" width="550" height="550">
 
 ## Web
-<img src="https://imgur.com/L2q2zwm.png" width="550" height="550">
-<img src="https://imgur.com/DDu3LdP.png" width="480" height="550">
-<img src="https://imgur.com/qMoJUTM.png" width="600" height="420">
+👉 Click [Figma](https://www.figma.com/proto/m1CDNRBHq86n3vmHeBlPmv/carSharing?node-id=0-1&t=EZrLlnQJwGSpKPAv-1) to see full design
+1. Customer
+    - Homepage/ Order page/ QnA page
+
+<div align="center">
+    <img src="https://imgur.com/L2q2zwm.png" width="275" height="275">
+    <img src="https://imgur.com/DDu3LdP.png" width="240" height="275">
+    <img src="https://imgur.com/ZjCybnx.png" width="310" height="275">
+</div>
+<br>
+
+2. Order car page
+    - Admin Homepage/ 
+
+<div align="center">
+    <img src="https://imgur.com/qMoJUTM.png" width="300" height="200">
+    <img src="https://imgur.com/qEujLFA.png" width="300" height="200">
+    <img src="https://imgur.com/xo1HVBq.png" width="310" height="200">
+</div>
+<br>
 
 
 
