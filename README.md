@@ -46,7 +46,7 @@
 <div align="center">
     <img src="https://imgur.com/qMoJUTM.png" width="240" height="160">
     <img src="https://imgur.com/qEujLFA.png" width="240" height="160">
-    <img src="https://imgur.com/xo1HVBq.png" width="244" height="160">
+    <img src="https://imgur.com/0GrMDfM.png" width="244" height="160">
 </div>
 <br>
 
