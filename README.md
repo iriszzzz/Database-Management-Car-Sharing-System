@@ -2,9 +2,6 @@
 
 > This note record and share the final project of [DBMS course](https://timetable.nycu.edu.tw/?r=main/crsoutline&Acy=112&Sem=2&CrsNo=517501&lang=zh-tw) about constructing a integrated system for Vehicle Rental Management
 
-👨‍🏫 Advicing Professor : CHIEN-LIANG LIU <br>
-👧 Team members : WAN-CHIN TSAI, CYN-YI PAI, ZHEN-YUN XU, YIN-CHI CHANG
-
 ## Feature
 1. User Capabilities:
     -  Account Management: Users can register, login, and manage their accounts.  
@@ -48,10 +45,12 @@
     <img src="https://imgur.com/qEujLFA.png" width="240" height="160">
     <img src="https://imgur.com/0GrMDfM.png" width="244" height="160">
 </div>
-<br>
+<br><br>
 
-
-
-
+👨‍🏫 Advicing Professor : CHIEN-LIANG LIU <br>
+👧 Team members : WAN-CHIN TSAI, CYN-YI PAI, ZHEN-YUN XU, YIN-CHI CHANG
 
 ###### tags:  `Database` `Database management system(DBMS)` `MySQL` `PHP` `CSS` `appserv` `PHPmyadmin` `visual studio` `ER diagram`
+
+
+> 🔍 Watch MORE ➜ [My GitHub](https://github.com/iriszzzz)
